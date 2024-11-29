@@ -21,4 +21,4 @@ This ATM project is a comprehensive simulation of an Automated Teller Machine (A
 
 1. **Clone the repository**:
    ```sh
- git clone https://github.com/maytham0/ATM
+ git clone https://github.com/maytham0/ATM.git
