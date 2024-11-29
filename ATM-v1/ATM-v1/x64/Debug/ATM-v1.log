@@ -1,0 +1,5 @@
+﻿  ATM-v1.cpp
+C:\Users\mathm\source\repos\ATM-v1\ATM-v1\ATM-v1.cpp(29,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\ATM-v1\ATM-v1\ATM-v1.cpp(131,28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\mathm\source\repos\ATM-v1\ATM-v1\ATM-v1.cpp(174,28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ATM-v1.vcxproj -> C:\Users\mathm\source\repos\ATM-v1\x64\Debug\ATM-v1.exe
